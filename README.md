@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+If you somehow found yourself here after the previous click, you are on more click close to your quest. but first,let me I introduce me.  
+
+- ⚡ I have been working as Node.js dev for more than 3 years building  ✨ Restful app ✨
+- 🌱 I’m currently mastering the act of smooth deployment and monitoring on AWS
+- 🔧 I enjoy using tool like TerraForm, Github action,K8s, docker containers,EKs
+- 😄 my Ekama  pronounce "air ka ma" 
+
+Now use the next click to ask me anything 💬 on [Whatapp](https://wa.me/message/R7QNULZJBQKFI1) 
 <!--
 **ekamanelly/ekamanelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
